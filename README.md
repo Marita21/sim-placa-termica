@@ -1,0 +1,1 @@
+# sim-placa-termica
