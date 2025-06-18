@@ -26,3 +26,6 @@ Donde:
 
 ```bash
 python sim_placa.py
+
+
+
